@@ -1,0 +1,12 @@
+
+------------------------------------------------------------------------------------
+                                         Ticket Details                   
+
+Ticket Number: 3
+Ticket Price: 5
+Ticket Type: Adult
+Ticket Time: 13:00
+Ticket Block: Left Block
+Movie: One Pierced (Hall 1)
+Thank you For Choosing WOGT Cinema Ticketing System! 
+____________________________________________________________________________________
